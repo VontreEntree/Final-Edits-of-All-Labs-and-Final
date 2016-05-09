@@ -1,0 +1,101 @@
+﻿SE440 Midterm Exam
+
+
+
+True or false questions.
+
+Choose True or False for each statement below.
+
+
+
+1. __False_ Good software should deliver only the required functionality and performance to the user.
+
+
+2. __True_ Software engineering is a more general process of system engineering.
+
+
+3. __True_ According to the author of our course text book, roughly 70% of software costs are development costs, 30% are testing costs.
+
+
+4. __False_ System models are used during requirements engineering to help explain the proposed requirements to system stakeholders.
+
+
+5. __True_ Sequence diagrams show interactions between actors and the system and between system components.
+
+
+6. __True_ One use of a graphical model is to document an accurate and complete representation of a system.
+
+
+7. __True_ Architectural design is concerned with understanding how a software system is organized.
+
+
+8. __False_ System characteristics include web user interfaces, performance, security, availability, and maintainability.
+
+
+9. __False_ Identifying object classes is simple by following process steps outlined in requirements documentation.
+
+
+10. __True_ Software design and implementation is the process of transforming specifications and models to executable software components.
+
+
+
+
+Answer the following questions.
+
+
+
+
+11. Define what system modeling is.
+
+
+
+
+
+	System modeling simplified is like a diagram of some sort that shows the components of the system and how they connect or interact with each other.
+
+12. Name system perspectives and what each perspective is modeled for.
+	I cannot answer this question. Couldnt find it in the book and dont know what Im looking for on the web.
+
+
+
+
+
+
+13. Describe differences between activity diagrams and sequence diagrams.
+
+
+
+
+
+	I believe the difference is that the sequence diagram shows how each component responds to each other whereas the activity diagram is more like a flow chart where it is set up to show the process of each component from start to finish. 
+
+14. Name three architectural design decisions.
+
+
+
+
+
+	Security
+	Performance
+	Availability	
+
+15. What are common activities of design processes?
+
+
+
+
+
+
+
+
+		THESE ANSWERS ARE STRAIGHT FROM THE BOOK
+
+	Software specification
+		-the process of understanding and defining what services are required from the system and identifiying the constraints on the system's operation and development.
+
+	Software design and implementation
+		-the process of developing an executable system for delivery to the customer.
+
+	Software validation
+		-is intended to show that a system both conforms to its specification and meets the expectations of the system customer.
+	Software evolution
